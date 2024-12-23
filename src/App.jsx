@@ -4,20 +4,20 @@ import IngredientList from './components/IngredientList.jsx'
 import './App.css'
 
 export const availableIngredients = [
-	{ name: 'Kaiser Bun', color: 'saddlebrown' },
-	{ name: 'Sesame Bun', color: 'sandybrown' },
-	{ name: 'Gluten Free Bun', color: 'peru' },
-	{ name: 'Lettuce Wrap', color: 'olivedrab' },
-	{ name: 'Beef Patty', color: '#3F250B' },
-	{ name: 'Soy Patty', color: '#3F250B' },
-	{ name: 'Black Bean Patty', color: '#3F250B' },
+	{ name: 'Kaiser Bun', color: '#bc6c25' },
+	{ name: 'Sesame Bun', color: '#f4a261' },
+	{ name: 'Gluten Free Bun', color: '#a98467' },
+	{ name: 'Lettuce Wrap', color: '#6a994e' },
+	{ name: 'Beef Patty', color: '#723d46' },
+	{ name: 'Soy Patty', color: '#6a040f' },
+	{ name: 'Black Bean Patty', color: '#472d30' },
 	{ name: 'Chicken Patty', color: 'burlywood' },
-	{ name: 'Lettuce', color: 'lawngreen' },
+	{ name: 'Lettuce', color: '#40916c' },
 	{ name: 'Tomato', color: 'tomato' },
 	{ name: 'Bacon', color: 'maroon' },
 	{ name: 'Onion', color: '#e9c46a' },
-	{ name: 'Cheddar Cheese', color: '#FDE18B' },
-	{ name: 'Swiss Cheese', color: '#F1E1A8' },
+	{ name: 'Cheddar Cheese', color: '#f8961e' },
+	{ name: 'Swiss Cheese', color: '#faa307' },
 ]
 
 const App = () => {

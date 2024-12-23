@@ -4,7 +4,7 @@ const Ingredient = ({ ingredient, index, functionName, arrow }) => {
 	return (
 		<div>
 			<li
-				className="p-2 rounded-lg font-bold flex items-center justify-between gap-4"
+				className="p-1.5 rounded-lg font-bold flex items-center justify-between gap-4"
 				style={{ backgroundColor: ingredient.color }}
 			>
 				{ingredient.name}

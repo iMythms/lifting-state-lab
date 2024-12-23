@@ -12,7 +12,7 @@ const BurgerStack = ({ ingredients, removeFromBurger }) => {
 						ingredient={ingredient}
 						index={index}
 						functionName={removeFromBurger}
-						arrow="◄"
+						arrow="-"
 					/>
 				))}
 			</ul>
